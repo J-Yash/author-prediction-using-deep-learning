@@ -41,3 +41,7 @@ Metrics for models trained on grammatical structure:
 | FNN       | 99.86%            | 0.004         | 99.6%               | 0.008           | 99.84%           | 0.006        |
 | CNN       | 99.96%            | 0.002         | 99.87%              | 0.003           | 99.74%           | 0.006        |
 | RNN(LSTM) | 99.91%            | 0.009         | 99.62%              | 0.038           | 99.39%           | 0.078        |
+
+All accuracy and Loss graphs can be found in the **Accuracy_and_Loss_graphs** folder.
+
+**Note:** This project was created as my final year project during my undergraduate degree at DIT University, Dehradun, India. I created this along with my teammate Tribhuwan Singh ([@tsmanral](https://github.com/tsmanral)).
